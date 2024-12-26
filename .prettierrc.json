@@ -2,7 +2,8 @@
   "$schema": "https://json.schemastore.org/prettierrc",
   "semi": true,
   "singleQuote": true,
-  "printWidth": 100,
+  "printWidth": 80,
   "tabWidth": 2,
+  "html.format.wrapAttributes": "force-aligned",
   "trailingComma": "all"
 }
